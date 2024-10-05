@@ -21,7 +21,7 @@ To run this game, you need to have Python installed on your computer. You can do
 
 ### Clone the Repository
 ```bash
-git clone <URL_REPOSITORY_GITHUB>
+git clone https://github.com/DarmaSinaga/RockPapperScissors/
 ```
 ## Acknowledgements
 - Inspired by the classic game of Rock, Paper, Scissors.
